@@ -1,3 +1,15 @@
+Designed and developed a simple Text Editor in Node List structures:
+
+1. Enter textual information into the Text Editor
+2. Undo actions performed
+3. Open pre-written text files
+4. Invoke a spell check operation to verify the correctness of the words in the text document
+
+For more information, refer to the Instructions.pdf file.
+For practice, part 1 of the repository introduces some necessary concpets for the completeion of part 2.
+
+
+
 Kian Zahrai
 Runtimes:
 ewl.txt: 30ms
