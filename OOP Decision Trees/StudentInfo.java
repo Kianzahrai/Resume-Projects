@@ -16,7 +16,7 @@ public class StudentInfo {
 	public static void display() {
 
 		System.out.println("************************************************************");
-		System.out.println("*        Kian Zahrai | Winter 2021			       *");
+		System.out.println("*              Kian Zahrai | Winter 2021	   	       *");
 		System.out.println("*                                                          *");
 		System.out.println("*     						       *");
 		System.out.println("*                                                          *");
