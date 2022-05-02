@@ -1,4 +1,3 @@
-This archive contains the 15 files of Assignment 4, that is, this file (README.txt),
-plus the files AttributeType.java, DataReader.java, DataSet.java, DecisionTree.java Util.java, CSVReader.java, Attribute.java, 
-ActualDataSet.java, VirtualDataSet.java, EntropyEvaluator.java, GainInfoItem.java, InformationGainCalculator.java, 
-StudentInfo.java, Util.java and VirtualDataSet.java.
+Created machine-learning-inspired decision trees (tree-based linked structures) through OOP, as well as recursive programming.
+
+Refer to the index.pdf file for more information on instructions and protocol.
