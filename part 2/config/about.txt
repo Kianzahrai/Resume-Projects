@@ -1,5 +1,0 @@
-University of Ottawa
-Version 1.0
-
-Text Editor Assignment 2
-Written for the CSI2110 and CSI2510 courses
