@@ -1,0 +1,1 @@
+A Java program that compresses and uncompresses files using constructed tree-based data structures via Huffman compression and decompression algorithm.
